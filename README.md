@@ -25,120 +25,252 @@ Reference - Michael Swan: _Practical English Usage_, Second Edition 1995, Oxford
 
 ## A
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| abstract noun |  |  |
+| active |  |  |
+| adjective |  |  |
+| adverb |  |  |
+| adverb perticle |  |  |
+| adverbial |  |  |
+| affirmative |  |  |
+| agent |  |  |
+| article |  |  |
+| assertive |  |  |
+| attribute |  |  |
+| auxiliary verb |  |  |
 
 ## B
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| bare infinitive |  |  |
 
 ## C
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| clause |  |  |
+| cleft sentence |  |  |
+| collective noun |  |  |
+| comparative |  |  |
+| complement |  |  |
+| compound |  |  |
+| concrete noun |  |  |
+| conditional |  |  |
+| conjunction |  |  |
+| continuous |  |  |
+| contraction |  |  |
+| co-ordinate clause | 等位節 |  |
+| copular verb |  |  |
+| countable noun |  |  |
 
 ## D
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| dangling perticiple |  |  |
+| declarative question |  |  |
+| definite article | 定冠詞 | _the_ |
+| degree |  |  |
+| demonstrative |  |  |
+| determiner |  |  |
+| direct object |  |  |
+| direct speech |  |  |
+| discourse marker |  |  |
+| duration |  |  |
 
 ## E
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| ellipsis |  |  |
+| emphasis |  |  |
+| emphatic pronoun |  |  |
+| ending |  |  |
 
 ## F
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| first person |  |  |
+| formal |  |  |
+| frequency |  |  |
+| fronting |  |  |
+| future tense |  |  |
+| futuer perfect tense |  |  |
+| future progressive |  |  |
 
 ## G
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| gender |  |  |
+| genitive |  |  |
+| gradable |  |  |
+| grammar |  |  |
 
 ## H
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| hangling perticiple |  |  |
+| hypothetical |  |  |
 
 ## I
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| identifying relative clause |  |  |
+| imperative |  |  |
+| indefinite article | 不定冠詞 | _a_ / _an_ |
+| indirect object |  |  |
+| indirect speech |  |  |
+| infinitive |  |  |
+| informal |  |  |
+| -ing form |  |  |
+| initial |  |  |
+| intensifying |  |  |
+| interrogative |  |  |
+| intransitive |  |  |
+| inversion |  |  |
+| irregular |  |  |
 
 ## M
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
-0
+| main clause |  |  |
+| main verb |  |  |
+| manner |  |  |
+| mid-position |  |  |
+| misrelated participle |  |  |
+| modal auxiliary verb |  |  |
+| modify |  |  |
+
 ## N
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| negative |  |  |
+| nominal relative clause |  |  |
+| non-assertive |  |  |
+| non-identifying relative clause |  |  |
+| noun |  |  |
+| noun phrase |  |  |
+| number |  |  |
 
 ## O
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| object |  |  |
 
 ## P
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| participle |  |  |
+| participle clause |  |  |
+| passive |  |  |
+| past perticiple |  |  |
+| past perfect tense |  |  |
+| past progressive tense |  |  |
+| past simple tense |  |  |
+| perfect |  |  |
+| perfect conditional |  |  |
+| perfect infinitive |  |  |
+| person |  |  |
+| personal pronoun |  |  |
+| phrase |  |  |
+| phrasal verb |  |  |
+| plural |  |  |
+| possessive |  |  |
+| possessive pronoun |  |  |
+| postmodifier |  |  |
+| predicative |  |  |
+| premodifier |  |  |
+| preparatory object |  |  |
+| preparatory subject |  |  |
+| preposition |  |  |
+| prepositional verb |  |  |
+| present perticiple |  |  |
+| present perfect tense |  |  |
+| present progressive tense |  |  |
+| present simple tense |  |  |
+| progressive |  |  |
+| progressive infinitive |  |  |
+| pronoun |  |  |
+| proper noun |  |  |
 
 ## Q
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| quantifier |  |  |
+| question tag |  |  |
 
 ## R
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| reflexive pronoun |  |  |
+| regular |  |  |
+| reinforcement tag |  |  |
+| relative clause |  |  |
+| relative pronoun |  |  |
+| reply question |  |  |
 
 ## S
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| second person |  |  |
+| sentence |  |  |
+| short answer |  |  |
+| simple past tense |  |  |
+| simple present tense |  |  |
+| simple tense |  |  |
+| singular |  |  |
+| slang |  |  |
+| split infinitive |  |  |
+| standard |  |  |
+| statement |  |  |
+| stress |  |  |
+| strong form |  |  |
+| subject |  |  |
+| subject-tag |  |  |
+| subjunctive |  |  |
+| subordinate clause |  |  |
+| sub-standard |  |  |
+| superative |  |  |
+| swearword |  |  |
 
 ## T
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| taboo word |  |  |
+| tag |  |  |
+| tense |  |  |
+| third person |  |  |
+| transitive |  |  |
 
 ## U
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| uncountable noun |  |  |
 
 ## V
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| verb |  |  |
+| verb phrase |  |  |
 
 ## W
 
-| 単語 | 和訳 | 解説|
+| 用語 | 和訳 | 解説|
 | - | - | - |
-|  |  |  |
+| weak form |  |  |
