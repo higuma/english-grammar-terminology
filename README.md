@@ -25,11 +25,13 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 
 [リンク集](links.md)
 
+⇔
+
 ## A
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
-| <span id="abstract-noun">abstract noun</span> | 抽象名詞 | ↔ [concrete noun](#concrete-noun) |
+| <span id="abstract-noun">abstract noun</span> | 抽象名詞 | ⇔ [concrete noun](#concrete-noun) |
 | <span id="active-verb-form">active (verb form)</span> | 能動(態) |  |
 | <span id="adjective">adjective</span> | 形容詞 |  |
 | <span id="adverb">adverb</span> | 副詞 |  |
@@ -58,7 +60,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="comparative">comparative</span> | 比較(級) |  |
 | <span id="complement">complement</span> | 補語 |  |
 | <span id="compound">compound</span> | 複合/合成 |  |
-| <span id="concrete-noun">concrete noun</span> | 具象名詞 | ↔ [abstract noun](#abstract-noun) |
+| <span id="concrete-noun">concrete noun</span> | 具象名詞 | ⇔ [abstract noun](#abstract-noun) |
 | <span id="conditional">conditional</span> | 条件(節, etc) |  |
 | <span id="conjunction">conjunction</span> | 接続詞 |  |
 | <span id="continuous">continuous</span> | 進行(形) | = [progressive](#progressive) |
@@ -156,7 +158,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | - | - | - |
 | <span id="negative-sentence">negative (sentence)</span> | 否定(文) |  |
 | <span id="nominal-relative-clause">nominal relative clause</span> | 名詞句関係詞節 |  |
-| <span id="non-assertive-form">non-assertive (form)</span> | 非断定(形) | ↔ [assertive](#assertive-form) |
+| <span id="non-assertive-form">non-assertive (form)</span> | 非断定(形) | ⇔ [assertive](#assertive-form) |
 | <span id="non-identifying-relative-clause">non-identifying relative clause</span> | 非限定関係詞節 |  |
 | <span id="noun">noun</span> | 名詞 |  |
 | <span id="noun-phrase">noun phrase</span> | 名詞句 |  |
@@ -238,7 +240,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="standard">standard</span> | 標準 |  |
 | <span id="statement">statement</span> | 叙述 |  |
 | <span id="stress">stress</span> | 強勢 |  |
-| <span id="strong-form">strong form</span> | 強形 | ↔ [weak form](#weak-form) |
+| <span id="strong-form">strong form</span> | 強形 | ⇔ [weak form](#weak-form) |
 | <span id="subject">subject</span> | 主語 |  |
 | <span id="subject-tag">subject-tag</span> | 付加主語 |  |
 | <span id="subjunctive">subjunctive</span> | 仮定法 |  |
@@ -274,4 +276,4 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
-| <span id="weak-form">weak form</span> | 弱形 | ↔ [strong form](#strong-form) |
+| <span id="weak-form">weak form</span> | 弱形 | ⇔ [strong form](#strong-form) |
