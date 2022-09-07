@@ -2,6 +2,8 @@
 
 Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford University Press
 
+## 目次
+
 [A](#a)
 [B](#b)
 [C](#c)
@@ -25,9 +27,9 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 
 [リンク集](links.md)
 
-⇔
+## 一覧
 
-## A
+### A
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -35,7 +37,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="active-verb-form">active (verb form)</span> | 能動(態) |  |
 | <span id="adjective">adjective</span> | 形容詞 |  |
 | <span id="adverb">adverb</span> | 副詞 |  |
-| <span id="adverb-perticle">adverb perticle</span> | 副詞辞 |  |
+| <span id="adverb-particle">adverb particle</span> | 副詞辞 | (→ [解説](links.md#adverb-particle)) |
 | <span id="adverbial">adverbial</span> | 副詞類 |  |
 | <span id="affirmative-sentence">affirmative (sentence)</span> | 肯定(文) |  |
 | <span id="agent">agent</span> | 動作主 | 受動文で動作を行う者/人 _This picture is painted by **a child**._ |
@@ -44,13 +46,17 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="attribute">attribute</span> | 限定(的) |  |
 | <span id="auxiliary-verb">auxiliary verb</span> | 助動詞 |  |
 
-## B
+<!--
+(→ [解説](links.md#))
+-->
+
+### B
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="bare-infinitive">bare infinitive</span> | 原形不定詞 |  |
 
-## C
+### C
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -69,7 +75,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="copular-verb">copular verb</span> | 接続詞 |  |
 | <span id="countable-noun">countable noun</span> | 可算名詞 |  |
 
-## D
+### D
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -84,7 +90,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="discourse-marker">discourse marker</span> | 談話標識 |  |
 | <span id="duration">duration</span> | (継続)期間 |  |
 
-## E
+### E
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -93,7 +99,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="emphatic-pronoun">emphatic pronoun</span> | 強調代名詞 |  |
 | <span id="ending">ending</span> | 語尾 |  |
 
-## F
+### F
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -105,7 +111,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="futuer-perfect-tense">futuer perfect tense</span> | 未来完了時制 |  |
 | <span id="future-progressive">future progressive</span> | 未来進行(形) |  |
 
-## G
+### G
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -114,14 +120,14 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="gradable">gradable</span> | 段階的 |  |
 | <span id="grammar">grammar</span> | 文法 |  |
 
-## H
+### H
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="hangling-participle">hangling participle</span> | 懸垂分詞 | = [misrelated participle](#) |
 | <span id="hypothetical">hypothetical</span> | 仮定(の) |  |
 
-## I
+### I
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -140,7 +146,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="inversion">inversion</span> | 倒置 |  |
 | <span id="irregular">irregular</span> | 不規則(な) |  |
 
-## M
+### M
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -152,7 +158,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="modal-auxiliary-verb">modal auxiliary verb</span> | 法助動詞 |  |
 | <span id="modify">modify</span> | 修飾(する) |  |
 
-## N
+### N
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -164,13 +170,13 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="noun-phrase">noun phrase</span> | 名詞句 |  |
 | <span id="number">number</span> | 数 |  |
 
-## O
+### O
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="object">object</span> | 目的語 |  |
 
-## P
+### P
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -206,14 +212,14 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="pronoun">pronoun</span> | 代名詞 |  |
 | <span id="proper-noun">proper noun</span> | 固有名詞 |  |
 
-## Q
+### Q
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="quantifier">quantifier</span> | 限量詞 |  |
 | <span id="question-tag">question tag</span> | 付加疑問 |  |
 
-## R
+### R
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -224,7 +230,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="relative-pronoun">relative pronoun</span> | 関係代名詞 |  |
 | <span id="reply-question">reply question</span> | 応答疑問(文) |  |
 
-## S
+### S
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -240,7 +246,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="standard">standard</span> | 標準 |  |
 | <span id="statement">statement</span> | 叙述 |  |
 | <span id="stress">stress</span> | 強勢 |  |
-| <span id="strong-form">strong form</span> | 強形 | ⇔ [weak form](#weak-form) |
+| <span id="strong-form">strong form</span> | 強形 | ⇔ [weak form](#weak-form) (→ [解説](links.md#strong-form)) |
 | <span id="subject">subject</span> | 主語 |  |
 | <span id="subject-tag">subject-tag</span> | 付加主語 |  |
 | <span id="subjunctive">subjunctive</span> | 仮定法 |  |
@@ -249,7 +255,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="superative">superative</span> | 最上(級) |  |
 | <span id="swearword">swearword</span> | 罵り言葉 |  |
 
-## T
+### T
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
@@ -259,21 +265,25 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="third-person">third person</span> | 三人称 |  |
 | <span id="transitive">transitive</span> | 他動詞 |  |
 
-## U
+### U
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="uncountable-noun">uncountable noun</span> | 不可算名詞 |  |
 
-## V
+<!--
+(→ [解説](links.md#))
+-->
+
+### V
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="verb">verb</span> | 動詞 |  |
 | <span id="verb-phrase">verb phrase</span> | 動詞句 |  |
 
-## W
+### W
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
-| <span id="weak-form">weak form</span> | 弱形 | ⇔ [strong form](#strong-form) |
+| <span id="weak-form">weak form</span> | 弱形 | ⇔ [strong form](#strong-form) (→ [解説](links.md#strong-form)) |
