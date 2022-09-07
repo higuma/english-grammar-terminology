@@ -34,15 +34,15 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | 用語 | 和訳 | 解説 |
 | - | - | - |
 | <span id="abstract-noun">abstract noun</span> | 抽象名詞 | ⇔ [concrete noun](#concrete-noun) |
-| <span id="active-verb-form">active (verb form)</span> | 能動(態) |  |
+| <span id="active">active (verb form)</span> | 能動(態) |  |
 | <span id="adjective">adjective</span> | 形容詞 |  |
 | <span id="adverb">adverb</span> | 副詞 |  |
 | <span id="adverb-particle">adverb particle</span> | 副詞辞 | (→ [解説](links.md#adverb-particle)) |
 | <span id="adverbial">adverbial</span> | 副詞類 |  |
-| <span id="affirmative-sentence">affirmative (sentence)</span> | 肯定(文) |  |
+| <span id="affirmative">affirmative (sentence)</span> | 肯定(文) |  |
 | <span id="agent">agent</span> | 動作主 | 受動文で動作を行う者/人 _This picture is painted by **a child**._ |
 | <span id="article">article</span> | 冠詞 | [不定冠詞](#indefinite-article)及び[定冠詞](#definite-article)の総称 |
-| <span id="assertive-form">assertive (form)</span> | 断定(形) |  |
+| <span id="assertive">assertive (form)</span> | 断定(形) |  |
 | <span id="attribute">attribute</span> | 限定(的) |  |
 | <span id="auxiliary-verb">auxiliary verb</span> | 助動詞 |  |
 
@@ -72,7 +72,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | <span id="continuous">continuous</span> | 進行(形) | = [progressive](#progressive) |
 | <span id="contraction">contraction</span> | 短縮 |  |
 | <span id="co-ordinate-clause">co-ordinate clause</span> | 等位節 |  |
-| <span id="copular-verb">copular verb</span> | 接続詞 |  |
+| <span id="copular-verb">copular verb</span> | 連結詞的動詞 |  |
 | <span id="countable-noun">countable noun</span> | 可算名詞 |  |
 
 ### D
@@ -162,9 +162,9 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 
 | 用語 | 和訳 | 解説 |
 | - | - | - |
-| <span id="negative-sentence">negative (sentence)</span> | 否定(文) |  |
+| <span id="negative">negative (sentence)</span> | 否定(文) |  |
 | <span id="nominal-relative-clause">nominal relative clause</span> | 名詞句関係詞節 |  |
-| <span id="non-assertive-form">non-assertive (form)</span> | 非断定(形) | ⇔ [assertive](#assertive-form) |
+| <span id="non-assertive">non-assertive (form)</span> | 非断定(形) | ⇔ [assertive](#assertive) |
 | <span id="non-identifying-relative-clause">non-identifying relative clause</span> | 非限定関係詞節 |  |
 | <span id="noun">noun</span> | 名詞 |  |
 | <span id="noun-phrase">noun phrase</span> | 名詞句 |  |
@@ -182,7 +182,7 @@ Reference: Michael Swan, _Practical English Usage_, Second Edition, 1995, Oxford
 | - | - | - |
 | <span id="participle">participle</span> | 分詞 | [現在分詞](#present-participle)及び[過去分詞](#past-participle)の総称 |
 | <span id="participle-clause">participle clause</span> | 分詞節 |  |
-| <span id="passive-verb-form">passive (verb form)</span> | 受動(態) |  |
+| <span id="passive">passive (verb form)</span> | 受動(態) |  |
 | <span id="past-participle">past participle</span> | 過去分詞 |  |
 | <span id="past-perfect-tense">past perfect tense</span> | 過去完了時制 |  |
 | <span id="past-progressive-tense">past progressive tense</span> | 過去進行時制 |  |
